@@ -35,7 +35,7 @@ h2{
 }
 .dream-big{
     display: flex;
-    background-image: url(exp-bg.png)
+    background-image: url(dream-bg.png)
     ;
     background-repeat: no-repeat;
     background-position: right;
@@ -59,9 +59,10 @@ h3{
       padding-left: 20px;
 }
 .experience-area{
-    background-image:url(dream-bg.png);
+    background-image:url(exp-bg.png);
     background-repeat: no-repeat;
-    background-position: left;
+    background-position:left;
+
 }
 #web-dev-experiences{
     border-left: 7px solid;
